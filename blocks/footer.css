@@ -15,13 +15,13 @@
 
 .footer__social-heading {
   color: #fff;
-  text-align: right;
-  font-family: "Inter" "Arial";
+  text-align: left;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  margin-top: 0;
+  margin: 0 0 20px;
 }
 
 .footer__list {
@@ -54,7 +54,7 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  font-family: "Inter" "Arial", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -67,7 +67,7 @@
 }
 
 .footer__copyright {
-  font-family: "Inter" "Arial", sans-serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
