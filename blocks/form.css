@@ -45,6 +45,7 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
+  margin: 0;
 }
 
 .form__checkbox {
